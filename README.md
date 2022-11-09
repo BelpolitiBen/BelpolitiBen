@@ -1,5 +1,14 @@
-<h1 align="center">Hi 👋, I'm Benjamin</h1>
-<h3 align="center">I'm a Full Stack Web Developer from Argentina.</h3>
+<h1 align="center">Hi, my name is Benjamin</h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+
+<p> Thanks for visiting my GitHub profile! </p>
+
+<h2> About me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width="135px" align="right"></h2>
+
+<p> ▸ I'm a Full Stack Developer from Argentina. </p>
+
+<p> ▸ I graduated from the SoyHenry programming bootcamp. </p>
+
+<p> ▸ I'm looking to collaborate on more projects to further refine my knowledge and continue learning new skills. </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
