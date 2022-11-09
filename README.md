@@ -2,7 +2,7 @@
 
 <p> Thanks for visiting my GitHub profile! </p>
 
-<h2> About me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width="135px" align="right"></h2>
+<h2> About me </h2>
 
 <p> ▸ I'm a Full Stack Developer from Argentina. </p>
 
