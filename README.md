@@ -1,4 +1,4 @@
-<h1 align="center">Hi, my name is Benjamin</h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1 align="center">Hi, my name is Benjamin <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
 <p> Thanks for visiting my GitHub profile! </p>
 
